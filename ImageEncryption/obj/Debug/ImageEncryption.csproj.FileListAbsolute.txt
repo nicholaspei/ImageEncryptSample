@@ -1,0 +1,5 @@
+E:\C#\ImageEncryption\bin\Debug\ImageEncryption.dll
+E:\C#\ImageEncryption\bin\Debug\ImageEncryption.pdb
+E:\C#\ImageEncryption\obj\Debug\ImageEncryption.csprojResolveAssemblyReference.cache
+E:\C#\ImageEncryption\obj\Debug\ImageEncryption.dll
+E:\C#\ImageEncryption\obj\Debug\ImageEncryption.pdb

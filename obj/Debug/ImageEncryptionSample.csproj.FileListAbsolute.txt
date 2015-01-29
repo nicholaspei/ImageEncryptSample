@@ -4,3 +4,11 @@ E:\C#\ImageEncryptionSample\bin\Debug\ImageEncryptionSample.pdb
 E:\C#\ImageEncryptionSample\obj\Debug\ImageEncryptionSample.csprojResolveAssemblyReference.cache
 E:\C#\ImageEncryptionSample\obj\Debug\ImageEncryptionSample.exe
 E:\C#\ImageEncryptionSample\obj\Debug\ImageEncryptionSample.pdb
+E:\git\ImageEncryptSample\obj\Debug\ImageEncryptionSample.csprojResolveAssemblyReference.cache
+E:\git\ImageEncryptSample\obj\Debug\ImageEncryptionSample.exe
+E:\git\ImageEncryptSample\obj\Debug\ImageEncryptionSample.pdb
+E:\git\ImageEncryptSample\bin\Debug\ImageEncryptionSample.exe.config
+E:\git\ImageEncryptSample\bin\Debug\ImageEncryptionSample.exe
+E:\git\ImageEncryptSample\bin\Debug\ImageEncryptionSample.pdb
+E:\git\ImageEncryptSample\bin\Debug\ImageEncryption.dll
+E:\git\ImageEncryptSample\bin\Debug\ImageEncryption.pdb

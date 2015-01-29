@@ -241,7 +241,7 @@
     <None Include="Project_Readme.html" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\ImageEncryption\ImageEncryption.csproj">
+    <ProjectReference Include="..\ImageEncryption\ImageEncryption.csproj">
       <Project>{390e469f-d348-4668-b304-80ebbaad8117}</Project>
       <Name>ImageEncryption</Name>
     </ProjectReference>
